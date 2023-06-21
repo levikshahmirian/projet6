@@ -1,3 +1,8 @@
+## Le programme de classification des race de chien est implémenté sur la platforme Streamlit.
+#Voici le lien vers l'application en ligne
+
+#https://leviks-formation-mlshahmirrian-levik-2-programme-062023-slhrdz.streamlit.app/
+
 import streamlit as st
 #from rembg.bg import remove
 from PIL import Image
